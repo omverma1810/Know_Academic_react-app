@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Know_Academic_react-app/static/css/main.3778f897.chunk.css",
+    "main.js": "/Know_Academic_react-app/static/js/main.c491de10.chunk.js",
+    "main.js.map": "/Know_Academic_react-app/static/js/main.c491de10.chunk.js.map",
+    "runtime-main.js": "/Know_Academic_react-app/static/js/runtime-main.6f3404dc.js",
+    "runtime-main.js.map": "/Know_Academic_react-app/static/js/runtime-main.6f3404dc.js.map",
+    "static/js/2.6b1af64e.chunk.js": "/Know_Academic_react-app/static/js/2.6b1af64e.chunk.js",
+    "static/js/2.6b1af64e.chunk.js.map": "/Know_Academic_react-app/static/js/2.6b1af64e.chunk.js.map",
+    "index.html": "/Know_Academic_react-app/index.html",
+    "static/css/main.3778f897.chunk.css.map": "/Know_Academic_react-app/static/css/main.3778f897.chunk.css.map",
+    "static/js/2.6b1af64e.chunk.js.LICENSE.txt": "/Know_Academic_react-app/static/js/2.6b1af64e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f3404dc.js",
+    "static/js/2.6b1af64e.chunk.js",
+    "static/css/main.3778f897.chunk.css",
+    "static/js/main.c491de10.chunk.js"
+  ]
+}
